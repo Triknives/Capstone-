@@ -7,4 +7,5 @@
 * 11:00-11:30AM - Continue ways to add react frontend to MongoDb backend.
 * 11:30AM - 12:15PM - Debug current server connection issues. Make sure to whitelist IPs!
 * 12:15PM - 1:15PM - Continue following MERN stack tutorial
-* 1:15PM - TBD PM - Continue following MERN stack tutorial  
+* 1:15PM - 2:15PM - Continue following MERN stack tutorial  
+* 2:15PM - TBD PM - Experiment with ReactStrap
