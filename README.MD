@@ -6,3 +6,5 @@
 * 10:00-11:00AM - Continue adding API calls to Database with express and mongoose.
 * 11:00-11:30AM - Continue ways to add react frontend to MongoDb backend.
 * 11:30AM - 12:15PM - Debug current server connection issues. Make sure to whitelist IPs!
+* 12:15PM - 1:15PM - Continue following MERN stack tutorial
+* 1:15PM - TBD PM - Continue following MERN stack tutorial  
