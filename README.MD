@@ -10,4 +10,4 @@
 * 1:15PM - 2:15PM - Continue following MERN stack tutorial  
 * 2:15PM - 3:00PM - Experiment with ReactStrap
 * 3:00PM - 4:00PM - Continue tutorial. Attempt to mimic backend and frontend.
-* 4:15 - TBDPM - Work on managing state within practice project - add redux after initial build is complete
+* 4:15 - 5:15PM - Complete adding basic state, and reactstrap components to practice project
