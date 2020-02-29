@@ -8,4 +8,6 @@
 * 11:30AM - 12:15PM - Debug current server connection issues. Make sure to whitelist IPs!
 * 12:15PM - 1:15PM - Continue following MERN stack tutorial
 * 1:15PM - 2:15PM - Continue following MERN stack tutorial  
-* 2:15PM - TBD PM - Experiment with ReactStrap
+* 2:15PM - 3:00PM - Experiment with ReactStrap
+* 3:00PM - 4:00PM - Continue tutorial. Attempt to mimic backend and frontend.
+* 4:15 - TBDPM - Work on managing state within practice project - add redux after initial build is complete
