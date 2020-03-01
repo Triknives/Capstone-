@@ -1,5 +1,6 @@
 ## Schedule // To do
 
+## Friday
 * 8:00 - Begin initial planning for the day.
 * 8:30 - Meet with classmate to research MERN stack.
 * 9:00- 10:00AM - Begin working on MongoDb based database.
