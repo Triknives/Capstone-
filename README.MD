@@ -15,5 +15,7 @@
 ## Sunday
 * 12:00PM - 1:00PM - Wireframe mock up of User Interface Page
 * 1:00PM - 2:00PM - Connect MongoDb backend to React frontend.
-* 2:10PM - TDB PM  - Exploring / practice of addition of redux to capstone.
+* 2:10PM - 3:30 PM  - Exploring / practice of addition of redux to capstone demo project. List with CRUD functionality completed through use of MERN stack. Axios supporting calls to server.
+
+
 ![UserPage](https://user-images.githubusercontent.com/50305423/75633743-81548280-5bbc-11ea-87a2-745783d81002.png)
