@@ -14,5 +14,6 @@
 
 ## Sunday
 * 12:00PM - 1:00PM - Wireframe mock up of User Interface Page
+* 1:00PM - TBD - Connect MongoDb backend to React frontend.
 
 ![UserPage](https://user-images.githubusercontent.com/50305423/75633743-81548280-5bbc-11ea-87a2-745783d81002.png)
