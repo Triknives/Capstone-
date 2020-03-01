@@ -11,3 +11,8 @@
 * 2:15PM - 3:00PM - Experiment with ReactStrap
 * 3:00PM - 4:00PM - Continue tutorial. Attempt to mimic backend and frontend.
 * 4:15 - 5:15PM - Complete adding basic state, and reactstrap components to practice project
+
+## Sunday
+* 12:00PM - 1:00PM - Wireframe mock up of User Interface Page
+
+![UserPage](https://user-images.githubusercontent.com/50305423/75633743-81548280-5bbc-11ea-87a2-745783d81002.png)
